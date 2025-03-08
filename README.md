@@ -3,8 +3,10 @@
 ### Initial Deploy
 
 > [!NOTE]
-> You must rund lint and build the project before deploy into vercel.
-> **Run following command to check Es-lint error**
+> You must run lint and build the project before deploy into vercel.
+> You should build the project before every re-deploy
+
+**Run following command to check Es-lint error**
 
 ```javascript
 npm run lint
