@@ -1,4 +1,4 @@
-# Depoy with vercel cli
+# Deploy project with vercel cli
 
 ### Initial Deploy
 
